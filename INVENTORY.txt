@@ -1,0 +1,15 @@
+_________INVENTORY_________
+ITEM--------THRESHOLD-------CURRENT
+Buns         10             20
+Lettuce      15             50
+Beef Patty   5              15
+Tomatoes     20             45
+Mayo         20             65
+Diet Coke    5              30
+Potatoes     17             100
+Salt         15             90
+Baguette     10             40
+Meat         7              25
+F.Bread      5              20
+Beans        3              15
+Cheese       25             70

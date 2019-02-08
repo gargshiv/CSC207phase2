@@ -1,0 +1,7 @@
+________MENU LIST OF THE RESTAURANT_________
+Cheese Burger       4.50$
+Diet Coke           2.25$
+Fries               3.25$
+Sandwich            6.00$
+Falafel             9.65$
+

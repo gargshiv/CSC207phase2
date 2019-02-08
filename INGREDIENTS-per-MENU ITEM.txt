@@ -1,0 +1,6 @@
+_________INGREDIENTS PER MENU ITEM_________
+Cheese Burger --> Buns: 2, Cheese: 2, Lettuce: 3, Beef Patty: 1, Mayo: 1, Salt: 2 |
+Diet Coke --> Diet Coke: 1 |
+Fries --> Potatoes: 5, Salt: 3, Tomatoes: 3 |
+Sandwich --> Baguette: 2, Cheese: 2, Lettuce: 2, Meat: 2, Mayo: 2, Salt: 2, Tomatoes: 1 |
+Falafel --> F.Bread: 1, Cheese: 2, Beans: 1, Lettuce: 2, Tomatoes: 2, Meat: 2, Salt: 2, Mayo: 2 |

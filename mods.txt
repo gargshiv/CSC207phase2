@@ -1,0 +1,9 @@
+__________MODIFICATIONS__________
+ITEM_________PRICE PER 1(IN DOLLARS)
+Lettuce      0.50
+Beef Patty   5.00
+Tomatoes     1.00
+Mayo         0.20
+Meat         1.25
+Beans        3.25
+Cheese       2.25
